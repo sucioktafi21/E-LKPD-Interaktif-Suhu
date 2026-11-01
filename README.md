@@ -1,1 +1,0 @@
-# E-LKPD-Interaktif-Suhu
